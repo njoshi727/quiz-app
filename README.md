@@ -1,13 +1,13 @@
-<!-- This project is a submission for front end intern position at IndiGG -->
+#This project is a submission for front end intern position at IndiGG
 
-<!-- How to run the web app -->
+#How to run the web app
 
 1. Download the source-code from github repo.
 2. Install live server extension on vscode
 3. Open source-code in vscode
 4. Click on "Go Live" Button available on bottom right of vscode window.
 
-<!-- Features implemented -->
+#Features implemented
 
 1. User can post any questions (dynamic). Questions and their respective options along with answer can be change in questions.js file
 
